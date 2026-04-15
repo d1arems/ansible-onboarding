@@ -1,8 +1,7 @@
-# ansible-onboarding
+
+# Project Title : Ansible-Onboarding (A brief description of what this project does and who it's for)
+
 An optimized Ansible starter template featuring performance-tuned configurations (pipelining, YAML callbacks) for rapid infrastructure automation and management.
-
-
-# Project Title
 
 A brief description of what this project does and who it's for
 
